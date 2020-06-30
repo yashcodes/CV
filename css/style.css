@@ -1,0 +1,51 @@
+
+
+ body {
+   background-color: #eaf6f6;
+ }
+
+img {
+  height: 200px;
+  /* width: 200px; */
+
+}
+p {
+  font-family: "Actor";
+  /* color: #3b6978; */
+  color: #2F4F4F;
+}
+
+li {
+  font-family: "Actor";
+  color: #2F4F4F;
+}
+
+table {
+  font-family: "Actor";
+  color: #2F4F4F;
+}
+ hr {
+   background-color: #eaf6f6;
+   border-style: dotted none none none;
+   border-width: 5px;
+   height: 0;
+   width: 5%;
+ }
+
+h1{
+  color: #66bfbf;
+  /* font-style: oblique; */
+  /* text-shadow: 2px 2px grey; */
+  /* font-family: "Caveat"; */
+  font-family: "Actor";
+}
+h2{
+  color: #66bfbf;
+}
+h3{
+  color: #66bfbf;
+  font-family: "Actor";
+}
+h4{
+  color: #66bfbf;
+}
